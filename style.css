@@ -1,5 +1,7 @@
 body {
-    font-size: 52;
-    line-height: 1.5;
+    line-height: 0.8;
+    font-size: 125;
     font-family: 'Lato', sans-serif;
+    background-color: rgb(53, 53, 53);
+    color: rgb(230, 230, 230);
 }
